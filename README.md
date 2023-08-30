@@ -83,6 +83,6 @@
 
 ## 📊 Статистика
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Azatprojazz&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azatprojazz&theme=dracula&hide_border=true&card_width=700)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://streak-stats.demolab.com?user=azatprojazz&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=700)](https://git.io/streak-stats)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Azatprojazz&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azatprojazz&show_icons=true&theme=dracula&hide_border=true&card_width=700)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=azatprojazz&show_icons=true&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=700)](https://git.io/streak-stats)
